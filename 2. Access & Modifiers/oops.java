@@ -2,7 +2,7 @@ public class oops {
     public static void main(String[] args) {
 
         BankAccount myAcc = new BankAccount();
-        myAcc.username = "atanuMandal";
+        myAcc.username = "aditiDas";
         myAcc.setPassword("abcdefghi");
     }
 }

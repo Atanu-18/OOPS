@@ -34,7 +34,7 @@ class Pen {
     }
     int getTip() {
         return this.tip;
-    }
+    }/
 
     //set method
     void setColor(String newColor) {
